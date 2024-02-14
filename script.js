@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function showEmbed() {
-    // Show an embed here, or perform any action you want when Yes is clicked
-    alert('You said Yes! Congratulations!');
+    
+    alert('You said Yes! I LOVE YOU SO MUCHHHH (Now send me that gamepass :3)');
 }
 
 function randomPosition() {
